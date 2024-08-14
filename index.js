@@ -20,7 +20,7 @@ if (window.YaGames) {
         loadLib("./js/bundle.js");
     });
 }else{
-    window.curLang = "ru";
+    window.curLang = "en";
     loadLib("./js/bundle.js");
 }
 
